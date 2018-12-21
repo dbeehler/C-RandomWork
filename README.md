@@ -1,2 +1,3 @@
-# C-RandomWork
-Stuff I do when im bored
+# C# Random Work
+
+**Stuff I do when im bored
